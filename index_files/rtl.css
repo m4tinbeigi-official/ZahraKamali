@@ -1,0 +1,12 @@
+@font-face {
+	font-family: IRANYekanX;
+	font-style: normal;
+	font-weight: normal;
+		src: url('fonts/eot/farhang-regularsharp.eot');
+	src: url('fonts/eot/farhang-regularsharp.eot?#iefix') format('embedded-opentype'),
+		 url('fonts/IRANYekanX-Regular.woff2') format('woff2'),
+		 url('fonts/IRANYekanX-Regular.woff') format('woff'); 
+}
+body,a,p,div,h1,h2,h3,h4,h5,h6,*{
+    	font-family: IRANYekanX;
+}

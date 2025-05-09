@@ -1,0 +1,339 @@
+@font-face {
+  font-family: 'rtlicons';
+  src:  url('rtlicons.eot?zdc8pp');
+  src:  url('rtlicons.eot?zdc8pp#iefix') format('embedded-opentype'),
+    url('rtlicons.ttf?zdc8pp') format('truetype'),
+    url('rtlicons.woff?zdc8pp') format('woff'),
+    url('rtlicons.svg?zdc8pp#rtlicons') format('svg');
+  font-weight: normal;
+  font-style: normal;
+  font-display: block;
+}
+
+[class^="rtlicons-"], [class*=" rtlicons-"] {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: 'rtlicons' !important;
+  speak: never;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.rtlicons-rtl-theme:before {
+  content: "\e90f";
+}
+.rtlicons-bank-ansar:before {
+  content: "\e900";
+}
+.rtlicons-bank-asan-pardakht:before {
+  content: "\e901";
+}
+.rtlicons-bank-ayandeh:before {
+  content: "\e902";
+}
+.rtlicons-bank-bank-markazi:before {
+  content: "\e903";
+}
+.rtlicons-bank-caspian:before {
+  content: "\e904";
+}
+.rtlicons-bank-dey:before {
+  content: "\e905";
+}
+.rtlicons-bank-digipay:before {
+  content: "\e906";
+}
+.rtlicons-bank-eghtesad-novin:before {
+  content: "\e907";
+}
+.rtlicons-bank-futurebank:before {
+  content: "\e908";
+}
+.rtlicons-bank-gardeshgari:before {
+  content: "\e909";
+}
+.rtlicons-bank-ghavamin:before {
+  content: "\e90a";
+}
+.rtlicons-bank-hekmat:before {
+  content: "\e90b";
+}
+.rtlicons-bank-hesabit:before {
+  content: "\e90c";
+}
+.rtlicons-bank-idpay:before {
+  content: "\e90d";
+}
+.rtlicons-bank-iran-europe:before {
+  content: "\e90e";
+}
+.rtlicons-bank-iran-venezuela:before {
+  content: "\e910";
+}
+.rtlicons-bank-iran-zamin:before {
+  content: "\e913";
+}
+.rtlicons-bank-karafarin:before {
+  content: "\e914";
+}
+.rtlicons-bank-keshavarzi:before {
+  content: "\e915";
+}
+.rtlicons-bank-khavar-mianeh:before {
+  content: "\e916";
+}
+.rtlicons-bank-kosar:before {
+  content: "\e917";
+}
+.rtlicons-bank-maskan:before {
+  content: "\e918";
+}
+.rtlicons-bank-mehr-eghtesad:before {
+  content: "\e919";
+}
+.rtlicons-bank-mehr-iran:before {
+  content: "\e91a";
+}
+.rtlicons-bank-melall:before {
+  content: "\e91b";
+}
+.rtlicons-bank-mellat:before {
+  content: "\e91c";
+}
+.rtlicons-bank-melli:before {
+  content: "\e91d";
+}
+.rtlicons-bank-noor:before {
+  content: "\e942";
+}
+.rtlicons-bank-parsian:before {
+  content: "\e943";
+}
+.rtlicons-bank-pasargad:before {
+  content: "\e944";
+}
+.rtlicons-bank-pay:before {
+  content: "\e945";
+}
+.rtlicons-bank-payping:before {
+  content: "\e946";
+}
+.rtlicons-bank-postbank:before {
+  content: "\e947";
+}
+.rtlicons-bank-refah:before {
+  content: "\e948";
+}
+.rtlicons-bank-resalat:before {
+  content: "\e949";
+}
+.rtlicons-bank-saderat:before {
+  content: "\e94a";
+}
+.rtlicons-bank-saman:before {
+  content: "\e94b";
+}
+.rtlicons-bank-sanat-madan:before {
+  content: "\e955";
+}
+.rtlicons-bank-sarmayeh:before {
+  content: "\e956";
+}
+.rtlicons-bank-sedad:before {
+  content: "\e957";
+}
+.rtlicons-bank-sepah:before {
+  content: "\e958";
+}
+.rtlicons-bank-shahr:before {
+  content: "\e959";
+}
+.rtlicons-bank-shaparak:before {
+  content: "\e95a";
+}
+.rtlicons-bank-sina:before {
+  content: "\e95b";
+}
+.rtlicons-bank-standard-chartered:before {
+  content: "\e95c";
+}
+.rtlicons-bank-taavon-eslami:before {
+  content: "\e960";
+}
+.rtlicons-bank-tejarat:before {
+  content: "\e961";
+}
+.rtlicons-bank-tosee:before {
+  content: "\e962";
+}
+.rtlicons-bank-tosee-saderat:before {
+  content: "\e963";
+}
+.rtlicons-bank-tosee-taavon:before {
+  content: "\e964";
+}
+.rtlicons-bank-vandar:before {
+  content: "\e965";
+}
+.rtlicons-bank-zarrinpal:before {
+  content: "\e966";
+}
+.rtlicons-social-hodhod:before {
+  content: "\e967";
+}
+.rtlicons-social-rubika:before {
+  content: "\e96a";
+}
+.rtlicons-social-abrak:before {
+  content: "\e9b1";
+}
+.rtlicons-social-aparat:before {
+  content: "\e9b2";
+}
+.rtlicons-social-bale:before {
+  content: "\e9b7";
+}
+.rtlicons-social-bisphone:before {
+  content: "\e9be";
+}
+.rtlicons-social-igap:before {
+  content: "\e9bf";
+}
+.rtlicons-social-ita:before {
+  content: "\e9d0";
+}
+.rtlicons-social-sorush:before {
+  content: "\e9d1";
+}
+.rtlicons-social-sorush-plus:before {
+  content: "\e9d5";
+}
+.rtlicons-team-esteghlal-khoozestan:before {
+  content: "\e9d6";
+}
+.rtlicons-team-esteghlal-tehran:before {
+  content: "\e9d7";
+}
+.rtlicons-team-foolad-khoozestan:before {
+  content: "\e9f4";
+}
+.rtlicons-team-gostaresh-foolad-tabriz:before {
+  content: "\ea29";
+}
+.rtlicons-team-iran-javan-booshehr:before {
+  content: "\ea2a";
+}
+.rtlicons-team-naft-masjid-soleyman:before {
+  content: "\eaea";
+}
+.rtlicons-team-naft-novin-abadan:before {
+  content: "\eb78";
+}
+.rtlicons-team-nassaji-mazandaran:before {
+  content: "\eb9e";
+}
+.rtlicons-team-padideh-mashhad:before {
+  content: "\ec08";
+}
+.rtlicons-team-pars-jonoobi-jam:before {
+  content: "\ec85";
+}
+.rtlicons-team-persepolis-tehran:before {
+  content: "\ecad";
+}
+.rtlicons-team-peykan-tehran:before {
+  content: "\ed3d";
+}
+.rtlicons-team-saipa-karaj:before {
+  content: "\ed64";
+}
+.rtlicons-team-sepahan-esfahan:before {
+  content: "\ed65";
+}
+.rtlicons-team-sepid-rood-dasht:before {
+  content: "\ed86";
+}
+.rtlicons-teraktor-sazi-tabriz:before {
+  content: "\edbd";
+}
+.rtlicons-zob-ahan-esfahan:before {
+  content: "\edbe";
+}
+.rtlicons-uni-alame-tabatabaee:before {
+  content: "\ee82";
+}
+.rtlicons-uni-azad:before {
+  content: "\ee83";
+}
+.rtlicons-uni-elm-o-farhang:before {
+  content: "\ee84";
+}
+.rtlicons-uni-ferdowsi-mashhad:before {
+  content: "\ee85";
+}
+.rtlicons-uni-guilan:before {
+  content: "\ee86";
+}
+.rtlicons-uni-payam-noor:before {
+  content: "\ee87";
+}
+.rtlicons-uni-sanati-amirkabir:before {
+  content: "\ee88";
+}
+.rtlicons-uni-sanati-sharif:before {
+  content: "\ee89";
+}
+.rtlicons-uni-shahed:before {
+  content: "\eeac";
+}
+.rtlicons-uni-shahid-beheshti:before {
+  content: "\eead";
+}
+.rtlicons-uni-shiraz:before {
+  content: "\eec4";
+}
+.rtlicons-uni-tehran:before {
+  content: "\eec5";
+}
+.rtlicons-bime-alborz:before {
+  content: "\eec6";
+}
+.rtlicons-bime-asia:before {
+  content: "\eec7";
+}
+.rtlicons-bime-dana:before {
+  content: "\eec8";
+}
+.rtlicons-bime-day:before {
+  content: "\eec9";
+}
+.rtlicons-bime-day-minimal:before {
+  content: "\eeca";
+}
+.rtlicons-bime-iran:before {
+  content: "\eecb";
+}
+.rtlicons-bime-moalem:before {
+  content: "\eecc";
+}
+.rtlicons-bime-parsian:before {
+  content: "\eecd";
+}
+.rtlicons-bime-razi:before {
+  content: "\eece";
+}
+.rtlicons-bime-sarmad:before {
+  content: "\eecf";
+}
+.rtlicons-bime-sina:before {
+  content: "\eed0";
+}
+.rtlicons-bime-tosee:before {
+  content: "\eed1";
+}
